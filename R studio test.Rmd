@@ -17,3 +17,10 @@ Now to push this we need to do add commit push!!
 git tab on top right, select git tab
 there are commit, pull and push
 - First save your file
+
+
+### Second heading
+
+```{r}
+sjfdndsjkfha
+```
