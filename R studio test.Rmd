@@ -1,0 +1,19 @@
+---
+title: "testing git hub"
+author: "Lauren Gill"
+date: "23/11/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## First Heading
+
+this is a comment that i wrote in r studio\
+
+Now to push this we need to do add commit push!!
+git tab on top right, select git tab
+there are commit, pull and push
+- First save your file
